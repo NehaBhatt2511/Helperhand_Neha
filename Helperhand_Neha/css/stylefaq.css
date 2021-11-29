@@ -22,5 +22,26 @@ body{
 }
 .content1{
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 50px;
+}
+
+.toggled{
+  width: 472px;
+  height: 66px;
+  background-color: #1d7a8c;
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+.accordian-button{
+  font-weight: bold;
+}
+.accordian-button,.accordian-body{
+
+  font-size: 14px;
+}
+
+@media screen and (min-width: 992px) {
+  #accordionExample1{margin-left:285px;
+    width:925px;}
+
 }
