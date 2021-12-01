@@ -1,0 +1,172 @@
+.price-content {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.price-content h1 {
+  font-weight: 500;
+  margin-top: 38px;
+  margin-bottom: 18px;
+  font-size: 36px;
+  line-height: 0.67;
+  letter-spacing: normal;
+  text-align: center;
+  color: #646464;
+}
+
+.price-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.price-card .card-body {
+  margin-top: 42px;
+  text-align: center;
+  width: 553px;
+  height: 304px;
+  margin: 42px 103px 51px;
+  padding: 0 0 32px;
+  border: solid 1px #b0c9ce;
+  background-color: var(--white);
+}
+
+.price-card ul {
+  list-style-type: none;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 1;
+  text-align: left;
+  color: #646464;
+}
+
+
+.price-card .card-title {
+  background-color: #1d7a8c;
+  color: #ffffff;
+  text-align: center;
+  width: 553px;
+  height: 59px;
+  margin: 0 0 29px;
+  padding: 18px 217px 20px;
+  font-size: 21px;
+}
+
+.price-card .card-subtitle {
+  font-size: 36px;
+}
+
+.price-card .card-logo {
+  color: #1d7a8c;
+  margin-right: 9px;
+  margin-left: 151px;
+  margin-bottom: 17px;
+  height: 24px;
+  width: 25px;
+}
+
+.Extra-services {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.icon1 {
+  width: 108px;
+  height: 108px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 39px;
+  margin-bottom: 17px;
+  padding: 30px 35px 30px 36px;
+  border: solid 1px #b0c9ce;
+  border-radius: 50%;
+}
+.Extra-services-content{
+padding: 24px 40px 28px;
+
+}
+
+.Extra-services-content h6{
+  font-size: 16px;
+  margin-bottom: 2px !important;
+  color: #646464;
+}
+.Extra-services-content h5 {
+    font-size: 18px;
+  color: #1d7a8c;
+}
+
+
+.include-box{
+  align-items: center;
+}
+
+.include-img{
+  width: 360px;
+  height: 210px;
+  margin-top: 30px;
+}
+
+.include .card{
+  margin-left: 30px;
+
+}
+.include-box .card-title{
+  color: #646464;
+  margin-top: 24px;
+  margin-bottom: 18px;
+  text-align: left;
+  font-size: 19px;
+}
+
+.include-box ul{
+  list-style: none;
+    color: #646464;
+    font-size: 15px;
+}
+.include-box li{
+  margin-bottom: 14px;
+}
+.include-box li img{
+  margin-right: 9px;
+}
+
+.WhyHelperland{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+    color: #646464;
+    font-size: 15px;
+
+}
+
+.WhyHelperland-content1{
+  text-align: right;
+
+}
+.WhyHelperland-content2{
+margin-left: 46px;
+
+}
+
+.WhyHelperland .WhyHelperland-img{
+  width: 329px;
+  height: 236px;
+  margin: 42px 8px 66px 6px;
+  object-fit: contain;
+
+}
+@media screen and (min-width: 992px) {
+.WhyHelperland{
+  margin-left: 80px;
+}
+}
