@@ -1,0 +1,93 @@
+.contact-content {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+.contact-content h1 {
+    font-weight: 500;
+    margin-top: 38px;
+    margin-bottom: 18px;
+    font-size: 36px;
+    line-height: 0.67;
+    letter-spacing: normal;
+    text-align: center;
+    color: #646464;
+  }
+  .contact-us{
+      padding:50px 0;
+  }
+
+  .contact-us .contact-img .card-img-top{
+    width: 34px;
+    flex-direction: column;
+    padding:0;
+    
+}
+.contact-us .contact-img .box{
+   max-width:153px ;
+ 
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+.contact-us .contact-img .box .img-box{
+    margin:auto;
+    width: 34px;
+    height: 54px;
+}
+.contact-us .contact-img .box .text-box{
+    font-size: 16px;
+    color: #4f4f4f;
+    width: 200px;
+} 
+.touch-us{
+    width: 614px;
+    margin-left: 417px;
+}
+.touch-us .row{
+    margin-bottom: 10px;
+}
+
+.touch-us .touch-headding{
+    font-size: 28px;
+    font-weight: 400;
+    color: #4F4F4F;
+    margin-bottom: 20px;
+}
+.touch-us .submit-btn{
+    width: 163px;
+    height: 46px;
+    border: 1px solid #1D7A8C;
+    border-radius: 23px;
+    background-color: #1D7A8C;
+    opacity: 1;
+    font-size: 20px;
+    color: #FFFFFF;
+} 
+
+/* touch us end */
+
+/* touch us map start */
+ 
+.touch-map .img-1-box{
+    position: relative;
+    width: 100%;
+}
+.touch-map .img-1-box .img-1{
+    width: 100%;
+}
+
+.touch-map .img-2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 9999;
+} 
+
+/* touch us map end */
+ 
+.contact-us-map{
+    background: url('../img/assets/group-16.png') no-repeat center;
+    height: 400px;
+}
