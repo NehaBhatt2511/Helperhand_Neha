@@ -1,0 +1,121 @@
+.reg-form .reg-form-content{
+background-repeat: no-repeat;
+    background-size: cover;
+    height: 928px;
+    display: flex;
+    padding: 0px 30px;
+    flex-direction: column;
+
+    padding-bottom: 25px;
+    align-items: center;
+}
+.reg-form-content .reg-card{
+    
+        width: 430px;
+        height: 664px;
+        border-radius: 4px;
+        box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.15);
+        background-color: white;
+        margin-top: 150px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+
+    }
+
+.reg-form-content .reg-card h1{
+    text-align: center;
+    color: #4f4f4f;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 23px;
+    margin-bottom: 25px;
+}
+
+.reg-form-content .reg-card .input-box{
+    width: 359px;
+    height: 46px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    background-color: var(--white);
+  }
+  .reg-form-content .reg-card .check-content{
+    display: block;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #4f4f4f;
+  }
+  .reg-form-content .reg-card .check-text{
+    vertical-align: middle;
+    position: relative;
+    bottom: 1px;
+  }
+
+  .reg-form-content .reg-card .get-button{
+    
+        width: 166px;
+        height: 46px;
+        margin: 20px 97px 0 75px;
+        /* padding: 16px 19px 17px 27px; */
+        border-radius: 23px;
+        font-size: 16px;
+        font-weight: bold;
+        background-color: #1d7a8c;
+      
+  }
+  .get-arrow{
+     
+      margin-top: 54px;
+  }
+
+  .Howitworks h2{
+    font-size: 40px;
+    text-align: center;
+    color: #4f4f4f;
+  }
+  .How-content{
+      width:50%;
+      align-items: center;
+      justify-content: center;
+      margin: 100px auto 100px auto;  
+      border: solid 1px white;  
+
+  }
+  
+  .How-content h3{
+    color: #4f4f4f;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 16px;
+   margin-top: 50px;
+
+  }
+  .How-content p{
+      font-size: 18px;
+      color: #4f4f4f;
+  }
+
+  .Howitworks .How-content .How-img{
+      height: 260px;
+      width: 260px;
+      border-radius: 50%;
+      display: block;
+      padding: 50px auto;
+  }
+
+  .register{
+      float: right;
+      margin-left: 158px;
+  }
+  .service{
+      float: left;
+      margin-right: 126px;
+  }
+  .complete{
+      float: right;
+      margin-left: 125px;
+  }
+  
+
+      
