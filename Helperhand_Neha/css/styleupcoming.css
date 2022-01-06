@@ -87,3 +87,72 @@ padding-left: 2px;
     border: 0;
 }
 
+.sr-history{
+    margin-left: 16px;
+    color: #9b9b9b;
+    font-weight: bolder;
+    text-align: left;
+}
+.export{
+    
+        width: 70px;
+        height: 34px;
+        border-radius: 17px;
+        background-color: #146371;
+        border: 0;
+        color: white;
+        font-size: 16px;
+        margin-left: 656px;
+      
+}
+
+
+
+.head-content{
+    display: flex;
+    flex-direction: row;
+   
+}
+ 
+.sr-hat{
+    height: 40px;
+    width: 40px;
+    border: 2px solid;
+    border-radius: 50%;
+    object-fit: contain;
+    margin-right: 10px;
+    
+}
+.sr-star{
+    margin-left: 38px;
+}
+.sr-payment{
+    color: #1d7a8c;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.complete{
+    background-color: 
+    #67b644;
+    color: white;
+    text-align: center;
+}
+.cancelled{
+    background-color: 
+    #ff6b6b;
+    color: white;
+    text-align: center;
+
+}
+.Ratesp{
+    width: 70px;
+    height: 34px;
+    border-radius: 17px;
+    background-color: var(--greyblue);
+    font-size: 14px;
+    background-color: 
+    #6da9b5;
+    border: 0;
+    color: white;
+}
