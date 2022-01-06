@@ -1,0 +1,89 @@
+
+.oblic{
+    
+    margin: auto 16px;
+    
+}
+.noti_bell{
+    height: 32px;
+    width: 29px;
+}
+.face{
+    height: 36px;
+    width: 36px;
+}
+sup{
+background-color:#ff1616;
+border-radius: 50%;
+font-size: 12px;
+padding-right: 2px;
+padding-left: 2px;
+}
+.welcome{
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+    margin-top: 44px;
+    margin-bottom: 44px;
+    color: #646464;
+}
+.welcome span{
+    color: #4f4f4f;
+    font-weight: bold;
+}
+.tables{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.table1 .table{
+    width: 262px;
+    height: 714px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: 210px;
+    background-color: #1d7a8c;
+}
+.table1 .table tr{
+    width: 262px;
+    height: 55px;
+    color: white;
+   
+}
+.table1 .table tr td{
+    width: 262px;
+    font-size: 18px;
+    line-height: 50px;
+    padding-left: 15px;
+}
+
+.table2 .table{
+    width: 845px;
+    margin-left: 31px;
+    color: #9b9b9b;
+}
+
+.table2 thead{
+    height:49px;
+}
+.table2 td{
+    justify-content: center;
+}
+.date{
+    font-weight: bold;
+}
+.calender{
+    margin-right: 7px;
+}
+.cancel{
+    background-color: 
+    #ff6b6b;
+    height: 34px;
+    width: 80px;
+    border-radius: 17px;
+    color: white;
+    font-size: 16px;
+    border: 0;
+}
+
