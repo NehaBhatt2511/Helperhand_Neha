@@ -1,0 +1,355 @@
+.navbar .heading{
+    color: #ffff;
+}
+.navbar .nav-admin{
+    flex-direction: row !important;
+}
+.navbar .admin-username{
+    color: #fff;
+}
+.admin-navbar-bg-color{
+    background-color: #1FB6FF;
+}
+
+.nav-link{
+    height: 50px;
+    vertical-align: middle;
+    padding: 0;
+}
+.face1{
+    height: 36px;
+    width: 36px;
+    margin-right: 7px;
+}
+
+.logout{
+    height: 29px;
+    width: 26px;
+    margin-left: 18px;
+}
+.sidebar-collapse-dv .sidebar-collapse-ul{
+    height: 100vh;
+    overflow: auto;
+}
+
+.sidebar-collapse-dv .sidebar-collapse-ul{
+    height: 100vh;
+    overflow: auto;
+}
+.admin-body .admin-sidebar .collapse ul{
+    display: flex;
+    flex-direction: column !important;
+    
+}
+.admin-body{
+    background:#f2f4f5;
+}
+.admin-body .admin-sidebar{
+    height: 100%;
+    align-items: flex-start;
+}
+.admin-body .admin-dashboard ul li a{
+    line-height: 50px;
+}
+.admin-body .admin-sidebar .collapse ul li a{
+    color: #646464 !important;
+    font-size: 16px;
+}
+.admin-body .admin-sidebar .collapse ul .active a{
+    color: #1FB6FF !important;
+}
+.admin-body .admin-sidebar .collapse ul li a:hover{
+    color: #1FB6FF !important;
+}
+
+.admin-body .admin-dashboard{
+    width: 100%;
+}
+
+.admin-body .admin-dashboard .side-dashboard{
+    width: 100%;
+    height: 1062px;
+    padding-top: 40px;
+    padding-left: 20px;
+    background-color: #f2f4f5;
+}
+.admin-body .admin-dashboard .side-dashboard .dataTables_wrapper{
+    margin-left: 0px !important;
+}
+.admin-body .admin-dashboard .side-dashboard .sub-headding{
+    margin-bottom: 20px;
+}
+.admin-body .admin-dashboard .side-dashboard .sub-headding h2{
+    font-size: 22px;
+    color: #646464;
+}
+.admin-body .admin-dashboard .side-dashboard tr td .dropdown-menu{
+    min-height: 78px !important;
+    right: 0px !important;
+    top: 5px !important;
+}
+.admin-body .admin-dashboard .side-dashboard .sub-headding button{
+    font-size: 14px;
+    margin-right: 20px;
+}
+.admin-body .admin-dashboard ul{
+    width: 100%;
+}
+.admin-body .admin-dashboard ul li{
+    
+    border-bottom: 1px solid #e5e5e5 !important;
+    border-radius: 0px;
+}
+.admin-body .admin-dashboard ul li a{
+    line-height: 50px;
+}
+.admin-body .sub-menu{
+    padding: 0;
+}
+.admin-body .sub-menu ul{
+    text-decoration: none;
+}
+.admin-body .sub-menu a{
+    display: block;
+    text-decoration: none;
+    position: relative;
+}
+
+.fa-caret-up::before {
+    
+    content: "\f107" !important;
+    position: absolute;
+    top: 20px;
+    right: 1px;
+}
+
+.fa-caret-down::before {
+    content: "\f105" !important; 
+    position: absolute;
+    top: 20px;
+    right: 1px;
+}
+.admin-body .sub-menu a .right{
+    float: right;
+    margin-top: 11px;
+}
+.admin-body .navbar{
+    min-width: 272px;
+    box-shadow: 2px 0px 6px #0000001A;
+}
+.admin-body .side-dashboard .col-auto{
+    padding-left: 15px !important;
+}
+.admin-body .side-dashboard .new-user{
+    background: #1FB6FF !important;
+    color: #fff;
+}
+.admin-body .side-dashboard .dv-filter{
+    min-height: 86px;
+    background: #fff !important;
+    flex-wrap: wrap;
+    margin-right: 20px;
+    padding: 20px 15px 20px 15px;
+    
+}
+.admin-body .side-dashboard .dv-filter .col{
+    max-width: 210px;
+    margin: 0 7px;
+    /* min-width: 210px; */
+    padding: 10px 0;
+    height: 46px;
+    color: 
+    #dedddd;
+}
+.admin-body .side-dashboard .dv-filter .col .admin-submit{
+    background: #1FB6FF !important;
+    color: #fff;
+}
+.admin-body .side-dashboard .dv-filter .phonenumber-col{
+    min-height: 38px;
+}
+.admin-body .side-dashboard .dv-filter .phonenumber-col .input-group-prepend{
+    font-size: 16px;
+    
+}
+.admin-body .side-dashboard .dv-filter .phonenumber-col .input-group-prepend .input-group-text{
+    padding: 6px;
+}
+.admin-body .side-dashboard .dv-filter button{
+    margin-bottom: 0px !important;
+    border: 1px solid gray;
+}
+.admin-body .side-dashboard .dv-filter .col input{
+    min-width: 210px;
+}
+.admin-body .side-dashboard .dv-filter .col .phonenumber-input{
+    min-width: 170px !important;
+}
+.admin-body .side-dashboard .dv-filter .col .phonenumber{
+    width: 219px;
+}
+.admin-body .navbar-nav .dropdown select{
+    border: none !important;
+    background-color:#f8f9fa;
+}
+.admin-body .navbar-nav .dropdown select{
+    background-image: url('../img/admin-user/sp-arrow-down.png');
+    /* transform: rotate(-90deg); */
+}
+.admin-body .admin-data-table #example_wrapper{
+    width: 100% !important;
+}
+.admin-body .display{
+    border-bottom:1px solid #E1E1E1 !important;
+}
+.admin-body .admin-data-table{
+    min-width: 900px;
+}
+.admin-body .admin-data-table tr{
+    height: 64px;
+    border: 1px solid #E1E1E1;
+}
+.admin-body .admin-data-table tr .active{
+    width: 58px;
+    height: 24px;
+    border: none;
+    color: #fff;
+    background: #67B644 0% 0% no-repeat padding-box !important;
+}
+.admin-body .admin-data-table tr .btn-new{
+    background-color: #f2bb37;
+    color: white;
+    border: none;
+    font-size: 13px;
+    padding: 3px 17px;
+}
+.admin-body .admin-data-table tr .btn-completed{
+    background-color:#67b644;
+    color: white;
+    border: none;
+    font-size: 13px;
+    padding: 3px 17px;
+}
+.admin-body .admin-data-table tr .btn-Cancel{
+    background-color:#ff6b6b;
+    color: white;
+    border: none;
+    font-size: 13px;
+    padding: 3px 17px;
+}
+.admin-body .admin-data-table th{
+    text-align: center;
+    height: 56px;
+    border: 1px solid #E1E1E1;
+}
+.admin-body .admin-data-table td{
+    text-align: center;
+}
+.admin-body .admin-data-table thead{
+    background: #E1E1E1;
+    border: 1px solid #E1E1E1;
+}
+.admin-body .dataTables_wrapper .dataTables_paginate .paginate_button.current{
+    background: #565656 !important;
+    color: #fff !important;
+    border-radius: 0% !important;
+}
+.admin-body .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover,
+.admin-body .dataTables_wrapper .dataTables_paginate .paginate_button.first:hover,
+.admin-body .dataTables_wrapper .dataTables_paginate .paginate_button:hover{
+    background-color: #fff;
+    border: 1px solid #1d7a8c;
+    background: #fff;
+    color: rgb(236, 236, 236) !important;
+}
+.admin-body .dataTables_wrapper .dataTables_paginate span .paginate_button{
+    border: 1px solid #D6D6D6 !important;
+    margin-left: 0px !important;
+}
+.admin-body .paginate_button{
+    border-radius: 0% !important;
+    
+}
+.admin-body .paginate_button:hover{
+    background: #424242 !important;
+    color: #fff !important;
+}
+ .admin-dashboard .side-dashboard .admin-data-table .action .dropdown-toggle::after{
+    content: none;
+}
+
+.admin-dashboard .side-dashboard .admin-data-table .action ul::before{
+    position: absolute;
+    
+    content: "";
+    border-width: 0 9px 14px 9px;
+    border-style: solid;
+    border-color: transparent transparent #ccc transparent;
+    top: -14px;
+    right: 24px;
+}
+.admin-dashboard .side-dashboard .admin-data-table .action ul::after{
+    position: absolute;
+    top: 0;
+    content: "";
+    border-width: 0 8px 12px 8px;
+    border-style: solid;
+    border-color: transparent transparent #fff transparent;
+    top: -12px;
+    right: 25px;
+}
+.admin-data-table .dropdown-menu{
+    inset: auto !important;
+}
+.admin-data-table .dropdown-menu a{
+
+    line-height: normal !important;
+}
+/* admin user management css end */ 
+
+
+/* admin service managemnet css start */
+
+.admin-service-body .side-dashboard .dv-filter .col input{
+    min-width: 110px !important; 
+}
+
+.admin-service-body .drop-service-provider{
+    min-width: 152px;
+}
+.datetime-placeholder input::placeholder{
+    content: 'from date' !important;
+}
+/* admin service managemnet css end */
+
+footer .detaile{
+    border-top: 2px solid #424242;
+}
+footer .detaile p{
+    font-size: 14px;
+    color: #9BA0A3;
+    padding: 27px 0 0 0;
+    text-align: center;
+
+}
+
+
+.form-select{
+    color:black !important;
+}
+.form-select .selected{
+    color:#6c757d !important;
+}
+
+.admin-body.bright{
+    filter: brightness(0.5);
+}
+.admin-body .admin-dashboard ul .drop-1.bg-gray,
+.admin-body .admin-dashboard ul .drop-2.bg-gray,
+.admin-body .admin-dashboard ul .drop-3.bg-gray,
+.sidebar-collapse-ul .drop-1.bg-gray,
+.sidebar-collapse-ul .drop-2.bg-gray,
+.sidebar-collapse-ul .drop-3.bg-gray{
+    background-color:#e1e1e1 !important;
+    border-radius: 0px !important;
+}
