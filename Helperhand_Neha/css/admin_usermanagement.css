@@ -353,3 +353,12 @@ footer .detaile p{
     background-color:#e1e1e1 !important;
     border-radius: 0px !important;
 }
+
+.admin_col{
+    width: fit-content;
+}
+
+.admin-submit{
+    margin-top: 12px;
+    margin-right: 12px;
+}
